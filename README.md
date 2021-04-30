@@ -21,5 +21,5 @@
   orders|cart| can delete cart 
   orders|cart| can view cart 
   
-5) As this is not hosted I can not provide with the base setup. 
+
 
